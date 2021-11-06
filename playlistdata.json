@@ -1,0 +1,656 @@
+{'media_sequence': 1, 'is_variant': False, 'is_endlist': True, 'is_i_frames_only': False, 'is_independent_segments': False, 'playlist_type': 'vod', 'playlists': [], 'segments': [
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00001.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00002.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00003.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00004.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00005.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00006.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00007.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00008.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00009.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00010.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00011.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00012.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00013.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00014.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00015.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00016.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00017.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00018.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00019.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00020.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00021.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00022.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00023.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00024.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00025.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00026.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00027.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00028.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00029.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00030.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00031.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00032.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00033.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00034.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00035.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00036.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00037.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00038.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00039.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00040.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00041.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00042.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00043.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00044.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00045.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00046.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00047.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00048.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00049.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00050.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00051.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00052.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00053.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00054.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00055.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00056.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00057.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00058.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00059.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00060.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00061.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00062.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00063.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00064.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00065.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00066.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00067.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00068.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00069.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00070.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00071.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00072.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00073.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00074.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00075.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00076.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00077.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00078.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00079.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00080.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00081.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00082.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00083.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00084.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00085.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00086.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00087.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00088.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00089.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00090.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00091.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00092.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00093.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00094.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00095.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00096.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00097.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00098.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00099.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00100.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00101.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00102.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00103.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00104.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00105.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00106.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00107.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00108.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00109.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00110.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00111.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00112.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00113.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00114.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00115.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00116.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00117.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00118.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00119.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00120.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00121.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00122.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00123.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00124.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00125.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00126.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00127.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00128.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00129.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00130.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00131.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00132.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00133.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00134.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00135.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00136.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00137.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00138.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00139.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00140.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00141.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00142.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00143.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00144.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00145.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00146.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00147.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00148.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00149.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00150.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00151.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00152.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00153.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00154.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00155.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00156.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00157.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00158.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00159.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00160.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00161.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00162.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00163.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00164.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00165.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00166.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00167.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00168.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00169.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00170.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00171.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00172.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00173.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00174.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00175.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00176.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00177.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00178.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00179.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00180.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00181.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00182.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00183.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00184.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00185.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00186.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00187.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00188.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00189.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00190.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00191.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00192.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00193.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00194.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00195.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00196.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00197.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00198.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00199.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00200.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00201.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00202.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00203.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00204.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00205.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00206.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00207.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00208.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00209.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00210.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00211.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00212.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00213.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00214.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00215.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00216.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00217.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00218.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00219.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00220.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00221.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00222.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00223.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00224.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00225.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00226.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00227.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00228.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00229.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00230.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00231.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00232.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00233.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00234.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00235.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00236.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00237.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00238.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00239.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00240.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00241.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00242.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00243.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00244.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00245.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00246.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00247.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00248.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00249.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00250.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00251.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00252.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00253.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00254.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00255.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00256.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00257.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00258.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00259.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00260.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00261.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00262.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00263.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00264.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00265.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00266.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00267.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00268.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00269.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00270.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00271.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00272.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00273.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00274.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00275.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00276.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00277.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00278.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00279.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00280.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00281.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00282.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00283.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00284.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00285.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00286.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00287.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00288.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00289.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00290.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00291.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00292.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00293.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00294.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00295.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00296.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00297.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00298.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00299.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00300.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00301.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00302.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00303.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00304.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00305.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00306.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00307.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00308.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00309.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00310.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00311.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00312.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00313.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00314.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00315.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00316.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00317.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00318.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00319.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00320.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00321.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00322.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00323.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00324.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 12.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00325.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        },
+        {'duration': 4.0, 'title': '', 'uri': '10007151_1920/00000/10007151_1920_00326.ts', 'cue_in': False, 'cue_out': False, 'cue_out_start': False, 'discontinuity': False, 'dateranges': None, 'gap_tag': None
+        }
+    ], 'iframe_playlists': [], 'media': [], 'keys': [None
+    ], 'rendition_reports': [], 'skip': {}, 'part_inf': {}, 'session_data': [], 'session_keys': [], 'version': 3, 'targetduration': 12.0
+}
